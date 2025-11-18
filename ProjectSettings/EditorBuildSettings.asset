@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Lab360scene.unity
+    guid: ea73960154ac04316be05bb8415f79eb
+  - enabled: 1
+    path: Assets/SkyBox2.unity
+    guid: 58ce9c9ec60d946eb8b7ad3c8bc8ba21
+  - enabled: 1
+    path: Assets/Skybox3.unity
+    guid: 43864f90889c44f2ea25458d342215b6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
