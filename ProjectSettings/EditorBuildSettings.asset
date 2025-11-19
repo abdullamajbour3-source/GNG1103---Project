@@ -17,6 +17,33 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Skybox3.unity
     guid: 43864f90889c44f2ea25458d342215b6
+  - enabled: 1
+    path: Assets/SkyBox4.unity
+    guid: 6fa33334849634bf68fd02289a4999a3
+  - enabled: 1
+    path: Assets/SkyBox5.unity
+    guid: ccf59a88eb20843ee9db955762d9964b
+  - enabled: 1
+    path: Assets/SkyBox6.unity
+    guid: f8d328ba10df542e3bf98389cacb59bb
+  - enabled: 1
+    path: Assets/SkyBox7.unity
+    guid: 28e4ae211e225448182e9358ff13c620
+  - enabled: 1
+    path: Assets/SkyBox8.unity
+    guid: 2fa77b2cc67144e24aa9e36d1859bee2
+  - enabled: 1
+    path: Assets/SkyBox9.unity
+    guid: 39e8be3e060a2421f94cbc6b42becc7c
+  - enabled: 1
+    path: Assets/SkyBox10.unity
+    guid: b23ce805c88854a6e90de2aaee423821
+  - enabled: 1
+    path: Assets/SkyBox11.unity
+    guid: 078fcde7b28e24dfbbb85fbd6fbd95ae
+  - enabled: 1
+    path: Assets/SkyBox12.unity
+    guid: 39a0819466fcc42b3a16de6f0b974060
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
