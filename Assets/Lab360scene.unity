@@ -410,9 +410,10 @@ MonoBehaviour:
     engineering lab so it is needed to fullfill the Personal Protective Equipment
     requirements:
 
-    
 
-    You must wear a Lab coat, gloves, and Protective Goggles/Glasses
+    You must wear a Lab coat, gloves, and Protective Goggles/Glasses,
+    all long hair must be tied back, dangling jewelry must be off, pants that must
+    cover your legs, and ensure that there is no exposed skin
 
 '
   m_isRightToLeft: 0
@@ -441,8 +442,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 350
-  m_fontSizeBase: 350
+  m_fontSize: 300
+  m_fontSizeBase: 300
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
