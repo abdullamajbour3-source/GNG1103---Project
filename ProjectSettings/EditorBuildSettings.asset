@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/GNG 1103 - Project.unity
+    guid: 5a21b617853dde946921ed2211c2ee1f
+  - enabled: 1
     path: Assets/Lab360scene.unity
     guid: ea73960154ac04316be05bb8415f79eb
   - enabled: 1
