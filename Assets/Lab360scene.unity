@@ -494,6 +494,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 274462561}
   m_CullTransparentMesh: 1
+<<<<<<< Updated upstream
 --- !u!1 &760220917 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1202806050858386807, guid: 9b6ce8b6e458b47dd93e6e9cffd237d2, type: 3}
@@ -511,6 +512,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5ed549bbd8a64acdb0d2dac6e0789f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GoToGNG1103Project
+=======
+>>>>>>> Stashed changes
 --- !u!1 &835394606
 GameObject:
   m_ObjectHideFlags: 0
@@ -1548,6 +1551,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!1001 &965173987618104619
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1630,6 +1634,8 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 760220919}
   m_SourcePrefab: {fileID: 100100000, guid: 9b6ce8b6e458b47dd93e6e9cffd237d2, type: 3}
+=======
+>>>>>>> Stashed changes
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -1641,4 +1647,7 @@ SceneRoots:
   - {fileID: 1913855821}
   - {fileID: 173296748}
   - {fileID: 1332759617}
+<<<<<<< Updated upstream
   - {fileID: 965173987618104619}
+=======
+>>>>>>> Stashed changes
